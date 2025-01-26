@@ -20,18 +20,18 @@ function App() {
       <Router basename="/GT-front-eSN">
         <Navigation />
         <Routes>
-          <Route path="/login" element={<AuthPage />} />
+          <Route path="/GT-front-eSN/login" element={<AuthPage />} />
           <Route path="/" element={<LandingPage />} />
-          <Route path="/tournaments" element={<TournamentsPage />} />
-          <Route path="/leaderboards" element={<LeaderboardsPage />} />
-          <Route path="/FAQ" element={<FAQPage />} />
-          <Route path="/ContactForm" element={<ContactForm />} />
-          <Route path="/Event-Organizers" element={<OrganizerPage />} />
-          <Route path="/profile" element={<ProfilePage />} />
-          <Route path="/shop" element={<ShopPage />} />
-          <Route path="/subscription" element={<SubscriptionPage />} />
-          <Route path="/host" element={<TournamentForm />} />
-          <Route path="/about-us" element={<AboutPage />} />
+          <Route path="/GT-front-eSN/tournaments" element={<TournamentsPage />} />
+          <Route path="/GT-front-eSN/leaderboards" element={<LeaderboardsPage />} />
+          <Route path="/GT-front-eSN/FAQ" element={<FAQPage />} />
+          <Route path="/GT-front-eSN/ContactForm" element={<ContactForm />} />
+          <Route path="/GT-front-eSN/Event-Organizers" element={<OrganizerPage />} />
+          <Route path="/GT-front-eSN/profile" element={<ProfilePage />} />
+          <Route path="/GT-front-eSN/shop" element={<ShopPage />} />
+          <Route path="/GT-front-eSN/subscription" element={<SubscriptionPage />} />
+          <Route path="/GT-front-eSN/host" element={<TournamentForm />} />
+          <Route path="/GT-front-eSN/about-us" element={<AboutPage />} />
         </Routes>
       </Router>
     </div>
