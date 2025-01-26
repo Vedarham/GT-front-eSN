@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GT-front-eSN/static/css/main.8e5d2d5b.css",
+    "main.js": "/GT-front-eSN/static/js/main.500a795a.js",
+    "static/js/488.e105ca7f.chunk.js": "/GT-front-eSN/static/js/488.e105ca7f.chunk.js",
+    "static/media/WAA-2.jpg": "/GT-front-eSN/static/media/WAA-2.612a838227582b30a7e1.jpg",
+    "static/media/shuriken-logo.jpg": "/GT-front-eSN/static/media/shuriken-logo.fccc3e70e33b5fe750f6.jpg",
+    "static/media/dragons-logo.jpg": "/GT-front-eSN/static/media/dragons-logo.9ff7f6d5651adc4b94bc.jpg",
+    "static/media/EN-logo.png": "/GT-front-eSN/static/media/EN-logo.2fe1e74db7a173839388.png",
+    "index.html": "/GT-front-eSN/index.html",
+    "main.8e5d2d5b.css.map": "/GT-front-eSN/static/css/main.8e5d2d5b.css.map",
+    "main.500a795a.js.map": "/GT-front-eSN/static/js/main.500a795a.js.map",
+    "488.e105ca7f.chunk.js.map": "/GT-front-eSN/static/js/488.e105ca7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e5d2d5b.css",
+    "static/js/main.500a795a.js"
+  ]
+}
