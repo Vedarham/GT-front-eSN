@@ -17,7 +17,7 @@ import AuthPage from './pages/AuthPage/AuthPage.js';
 function App() {
   return (
     <div className="App">
-      <Router basename="/<repository-name>">
+      <Router basename="/GT-front-eSN">
         <Navigation />
         <Routes>
           <Route path="/login" element={<AuthPage />} />
